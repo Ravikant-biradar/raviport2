@@ -28,7 +28,7 @@ const Contact = () => {
         transition={{ duration: 0.8, ease: "easeOut" }}
       >
         {/* Heading */}
-        <h2 className="text-4xl font-bold text-center mb-8">Let's Connect!</h2>
+        <h2 className="text-4xl font-bold text-center mb-8">Let&apos;s Connect!</h2>
 
         {/* Contact Info */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
