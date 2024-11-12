@@ -28,7 +28,7 @@ const Middlecomponent = () => {
             A Little About Me...
           </h4>
           <p className="text-lg mt-2 font-sans text-gray-300 max-w-lg leading-relaxed md:text-left">
-            I'm a Full Stack Developer specializing in JavaScript, React.js,
+             I&apos;m a Full Stack Developer specializing in JavaScript, React.js,
             Next.js, Node.js, Express, and MongoDB. I love building dynamic and
             scalable web applications, bringing creative solutions to life, and
             optimizing performance for seamless user experiences.
