@@ -31,7 +31,7 @@ const Resume = () => {
         >
           <h2 className="text-3xl font-bold mb-6">About Me</h2>
           <p className="text-lg text-gray-300 leading-relaxed">
-            I'm a Full Stack Developer specializing in JavaScript, React.js,
+            I&apos;m a Full Stack Developer specializing in JavaScript, React.js,
             Next.js, Node.js, and MongoDB. I love building scalable web
             applications and delivering exceptional user experiences.
           </p>
